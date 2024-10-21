@@ -1,2 +1,28 @@
-
+form{
+	margin:10px;
+	color:black;
+	font-family:sans-serif;
+	padding:10px;
+}
+#name,#phone,#address,#checkbox,#multiSelect{
+	margin-bottom:10px;
+}
+h1{
+	color:red;
+}
+input{
+	padding:5px;
+	margin-left:10px;
+	width:50%;
+	border-radius:4px;
+	box-sizing:border-box;
+}
+button{
+	background-color:pink;
+	width:50%;
+	padding:4px;
+}
+button:hover{
+	background-color:red;
+}
 /* Your CSS Code here. */
