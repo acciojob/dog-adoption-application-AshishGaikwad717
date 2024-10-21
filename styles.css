@@ -17,12 +17,12 @@ input{
 	border-radius:4px;
 	box-sizing:border-box;
 }
-button{
+input[type=submit]{
 	background-color:pink;
 	width:50%;
 	padding:4px;
 }
-button:hover{
+input[type=submit]:hover{
 	background-color:red;
 }
 /* Your CSS Code here. */
